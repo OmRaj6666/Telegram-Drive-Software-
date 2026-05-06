@@ -1,13 +1,11 @@
 # Changelog
 
-## [1.1.7] - 2026-05-01
+## [1.1.7] - 2026-05-06
 
 ### Feature
 
-- Added a donation button and popup modal to the main login screen to support the project via PayPal, Litecoin, and Bitcoin.
-
----
-
+- remove a button ask to pay little amount make it free to all
+- 
 ## [1.1.6] - 2026-04-28
 
 ### Fix
