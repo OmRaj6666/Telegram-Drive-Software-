@@ -134,13 +134,4 @@ https://github.com/caamer20/Telegram-Drive-ForVPNs
     </div>
   </div>
 
-  <!-- Bitcoin -->
-  <div style="margin: 15px 0;">
-    <a href="bitcoin:bc1q5pt7m2fk6w0dzsnf6vvd5k6nw5k44785286ujy">
-      <img src="https://img.shields.io/badge/Donate-BTC-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Donate BTC">
-    </a>
-    <div style="font-family: monospace; font-size: 13px; margin-top: 8px; word-break: break-all;">
-      bc1q5pt7m2fk6w0dzsnf6vvd5k6nw5k44785286ujy
-    </div>
-  </div>
-</div>
+  
