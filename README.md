@@ -115,23 +115,6 @@ Licensed under the **MIT License**.
 If you're looking for a version of this app that's optimized for VPNs check out this repo:
 https://github.com/caamer20/Telegram-Drive-ForVPNs
 
-<div align="center">
-  <!-- PayPal -->
-  <div style="margin: 15px 0;">
-    <a href="https://www.paypal.me/Caamer20">
-      <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" width="200">
-    </a>
-    <div style="font-size: 14px; margin-top: 8px;">paypal.me/Caamer20</div>
-  </div>
 
-  <!-- Litecoin -->
-  <div style="margin: 15px 0;">
-    <a href="litecoin:ltc1q6wkr5ac4u0pxx4hx7xgwn0gsaku25ws0df73rp">
-      <img src="https://img.shields.io/badge/Donate-LTC-345D9D?style=for-the-badge&logo=litecoin&logoColor=white" alt="Donate LTC">
-    </a>
-    <div style="font-family: monospace; font-size: 13px; margin-top: 8px; word-break: break-all;">
-      ltc1q6wkr5ac4u0pxx4hx7xgwn0gsaku25ws0df73rp
-    </div>
-  </div>
 
   
